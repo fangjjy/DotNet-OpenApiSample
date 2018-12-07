@@ -1,0 +1,17 @@
+F:\Test\OpenApiSDK\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSDK.deps.json
+F:\Test\OpenApiSDK\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSDK.dll
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.csproj.CoreCompileInputs.cache
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.AssemblyInfoInputs.cache
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.AssemblyInfo.cs
+F:\Test\OpenApiSDK\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSDK.pdb
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.dll
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.pdb
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.csprojResolveAssemblyReference.cache
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.csproj.CoreCompileInputs.cache
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.AssemblyInfoInputs.cache
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.AssemblyInfo.cs
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.dll
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSDK.pdb
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSDK.deps.json
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSDK.dll
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSDK.pdb

@@ -1,0 +1,8 @@
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSample.deps.json
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSample.dll
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\bin\Debug\netstandard2.0\OpenApiSample.pdb
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSample.csproj.CoreCompileInputs.cache
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSample.AssemblyInfoInputs.cache
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSample.AssemblyInfo.cs
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSample.dll
+C:\Users\SongLe\Desktop\新建文件夹\OpenApiSDK\obj\Debug\netstandard2.0\OpenApiSample.pdb

@@ -1,0 +1,9 @@
+F:\Test\OpenApiSDK\OpenApiSDK\bin\Debug\netstandard1.3\OpenApiSDK.deps.json
+F:\Test\OpenApiSDK\OpenApiSDK\bin\Debug\netstandard1.3\OpenApiSDK.dll
+F:\Test\OpenApiSDK\OpenApiSDK\bin\Debug\netstandard1.3\OpenApiSDK.pdb
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard1.3\OpenApiSDK.csproj.CoreCompileInputs.cache
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard1.3\OpenApiSDK.AssemblyInfoInputs.cache
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard1.3\OpenApiSDK.AssemblyInfo.cs
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard1.3\OpenApiSDK.dll
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard1.3\OpenApiSDK.pdb
+F:\Test\OpenApiSDK\OpenApiSDK\obj\Debug\netstandard1.3\OpenApiSDK.csprojResolveAssemblyReference.cache
